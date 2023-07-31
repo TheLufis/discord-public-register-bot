@@ -13,19 +13,19 @@
 
 ## Kurulum (Visual Studio Code gibi bir yerde çalıştırmanız önerilir)
 
-    - Projeyi Yükleyin Veya Klonlayın
-    - klasörün Bulunduğu Yola: ```python pip install -r requirements.txt``` Yazın
+- Projeyi Yükleyin Veya Klonlayın
+- klasörün Bulunduğu Yola: ```python pip install -r requirements.txt``` Yazın
 
-    ### Doldurulması Gereken Dosyalar
-          **config.json**
-            ```{
-                 "token": "",
-                 "guild_id": "",
-                 "sahip_id": ""
-               }``` 
-              - guild_id kısmına Sunucu İdsi Gelecek
-              - sahip_id kısmına Botun Sahibinin İdsi Gelecek
-              - Token kısmına botun tokeni gelecek
+### Doldurulması Gereken Dosyalar
+**config.json**
+```{
+"token": "",
+"guild_id": "",
+"sahip_id": ""
+}``` 
+- guild_id kısmına Sunucu İdsi Gelecek
+- sahip_id kısmına Botun Sahibinin İdsi Gelecek
+- Token kısmına botun tokeni gelecek
 
            **settings.json**
 
