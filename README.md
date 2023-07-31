@@ -1,6 +1,8 @@
 # Discord Public Sunucuları İçin Tasarlanmış Kullanımı Kolay Ve Anlaşılır Slash Komutları Destekli Kayıt Botu
 
-**Özellikler**
+**Bot Hala Geliştirme Sürecindedir Star Verirseniz Sevinirim**
+
+## Özellikler
 - İstatistik
 - Erkek Kayıt
 - Kız Kayıt
@@ -15,13 +17,11 @@
 
 - Projeyi Yükleyin Veya Klonlayın
 - klasörün Bulunduğu Yola: ```python pip install -r requirements.txt``` Yazın
+- config.json dosyasını doldurun
+- settings.json dosyasını doldurun
+- main.py dosyası içindeki Otomatik Giriş Bölümünü Doldurun
+- main.py dosyası İçindeki Status Bölümünü Doldurun
 
-### Doldurulması Gereken Dosyalar
-- config.json
-- settings.json
-- main.py dosyası içindeki Otomatik Giriş Bölümü
-- main.py dosyası İçindeki Status Bölümü
-
-**Hazırsınız!**
+## Hazırsınız!**
 
 - main.py dosyasını çalıştırın (eğer modül hatası alıoyrsanız ```pythonpip install [hatası alınan modülün adı]``` yazarak bu sorunu giderebilirsiniz)
