@@ -1,0 +1,6 @@
+pycord
+json
+sqlite3
+discord
+psutil
+platform
