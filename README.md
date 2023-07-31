@@ -2,8 +2,7 @@
 
 ## Bilgilendirme
 
-Bot Hala Geliştirme Sürecindedir Star Verirseniz Sevinirim
-Python Dili ile Kodlanmıştır
+Bot Hala Geliştirme Sürecindedir Star Verirseniz Sevinirim\nPython Dili ile Kodlanmıştır
 
 ## Özellikler
 - İstatistik
