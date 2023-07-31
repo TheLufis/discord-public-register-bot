@@ -1,6 +1,9 @@
 # Discord Public Sunucuları İçin Tasarlanmış Kullanımı Kolay Ve Anlaşılır Slash Komutları Destekli Kayıt Botu
 
-**Bot Hala Geliştirme Sürecindedir Star Verirseniz Sevinirim**
+## Bilgilendirme
+
+Bot Hala Geliştirme Sürecindedir Star Verirseniz Sevinirim
+Python Dili ile Kodlanmıştır
 
 ## Özellikler
 - İstatistik
