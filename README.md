@@ -25,6 +25,5 @@
 - main.py dosyası içindeki Otomatik Giriş Bölümünü Doldurun
 - main.py dosyası İçindeki Status Bölümünü Doldurun
 
-## Hazırsınız!**
-
+## Hazırsınız!
 - main.py dosyasını çalıştırın (eğer modül hatası alıoyrsanız ```pythonpip install [hatası alınan modülün adı]``` yazarak bu sorunu giderebilirsiniz)
