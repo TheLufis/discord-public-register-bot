@@ -11,4 +11,5 @@
 **Kurulum** 
 
 klasörün Bulunduğu Yola
-```python pip 
+```python pip install -r requirements.txt```
+Yazın
