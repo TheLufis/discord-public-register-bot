@@ -26,4 +26,4 @@
 - main.py dosyası İçindeki Status Bölümünü Doldurun
 
 ## Hazırsınız!
-- main.py dosyasını çalıştırın (eğer modül hatası alıoyrsanız ```pythonpip install [hatası alınan modülün adı]``` yazarak bu sorunu giderebilirsiniz)
+- main.py dosyasını çalıştırın (eğer modül hatası alıyorsanız ```pip install [hatası alınan modülün adı]``` yazarak bu sorunu giderebilirsiniz)
