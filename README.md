@@ -17,16 +17,11 @@
 - klasörün Bulunduğu Yola: ```python pip install -r requirements.txt``` Yazın
 
 ### Doldurulması Gereken Dosyalar
-**config.json**
-```{
-"token": "",
-"guild_id": "",
-"sahip_id": ""
-}``` 
-- guild_id kısmına Sunucu İdsi Gelecek
-- sahip_id kısmına Botun Sahibinin İdsi Gelecek
-- Token kısmına botun tokeni gelecek
+- config.json
+- settings.json
+- main.py dosyası içindeki Otomatik Giriş Bölümü
+- main.py dosyası İçindeki Status Bölümü
 
-           **settings.json**
+**Hazırsınız!**
 
-    - main.py dosyasını çalıştırın (eğer modül hatası alıoyrsanız ```pythonpip install [hatası alınan modülün adı]``` yazarak bu sorunu giderebilirsiniz)
+- main.py dosyasını çalıştırın (eğer modül hatası alıoyrsanız ```pythonpip install [hatası alınan modülün adı]``` yazarak bu sorunu giderebilirsiniz)
