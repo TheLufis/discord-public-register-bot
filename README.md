@@ -19,7 +19,7 @@
 ## Kurulum (Visual Studio Code gibi bir yerde çalıştırmanız önerilir)
 
 - Projeyi Yükleyin Veya Klonlayın
-- klasörün Bulunduğu Yola: ```python pip install -r requirements.txt``` Yazın
+- klasörün Bulunduğu Yola: ```pip install -r requirements.txt``` Yazın
 - config.json dosyasını doldurun
 - settings.json dosyasını doldurun
 - main.py dosyası içindeki Otomatik Giriş Bölümünü Doldurun
